@@ -13,8 +13,11 @@
 You can download our model weights from [google drive](https://drive.google.com/drive/folders/1pMMrt2FaUsfJAHoJQ4kmEW6q1XoZyPjb?usp=sharing), including RSIDiff based on SD v1.4, RSIDiff based on Diffusion-DPO, RSIDiff based on SD3.
 
 ## Codes
-We will release the source code soon.
+### Training
+We will release the training code soon.
 
+### Inference
+Please refer to the [**generate.ipynb**](generate.ipynb) file.
 
 ## Citation
 
